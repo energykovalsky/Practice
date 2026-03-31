@@ -1,0 +1,37 @@
+<Solution>
+  <Folder Name="/05. Inheritance/">
+    <Project Path="05. QUIZ. Inheritance\05. QUIZ. Inheritance.csproj" Id="935e719c-cb30-4520-85ca-f22a848de77a" />
+  </Folder>
+  <Folder Name="/07. Type Converisons/">
+    <Project Path="07. MS. PatternMatchingIsAs\07. MS. PatternMatchingIsAs.csproj" Id="0232689c-56f4-418d-a317-7b715d5c840f" />
+    <Project Path="07. MS. Type Conversions\07. MS. Type Conversions.csproj" Id="104357f9-da36-4f55-8546-8be05571af91" />
+    <Project Path="07. QUIZ. Type Conversions\07. QUIZ. Type Conversions.csproj" Id="fb8ac05c-0963-4399-8a71-a978f359453c" />
+  </Folder>
+  <Folder Name="/08. Generics/">
+    <Project Path="08. MS. Generics\08. MS. Generics.csproj" Id="5dc77318-4aa6-4dbe-a767-46f8be1383f7" />
+  </Folder>
+  <Folder Name="/09. Iterators/">
+    <Project Path="QUIZ 09. Iterators\09. QUIZ. Iterators.csproj" Id="962e9052-4960-445c-8eac-cf75f6c57e79" />
+  </Folder>
+  <Folder Name="/11. DelegatesAndLambdas/">
+    <Project Path="11. MS. Using Delegates\11. MS. Using Delegates.csproj" Id="b929957e-cf0b-4dd8-90be-d2967f7fc69d" />
+    <Project Path="Delegates\11. DelegatesGeminiExample.csproj" Id="ad00377a-8e14-4db4-8485-1a0b0d9c10a5" />
+  </Folder>
+  <Folder Name="/12. Events/">
+    <Project Path="12. QUIZ. Events. ENV12/12. QUIZ. Events. ENV12.csproj" Id="756883cb-3106-479b-bb2d-3758b2474a06" />
+    <Project Path="12. QUIZ. Events/12. QUIZ. Events. ENV10.csproj" Id="706eee9e-c3ce-4876-9894-d584a19ae80c" />
+    <Project Path="ConsoleApp1/12. QUIZ. Events. ENV11.csproj" Id="1e9d4f72-9d8d-40eb-9d88-74d64ce95eb0" />
+  </Folder>
+  <Folder Name="/13. LINQ/">
+    <Project Path="12. QUIZ. LINQ8/13. QUIZ. LINQ8.csproj" Id="3ad863f0-de97-49cc-bc45-4896d820b056" />
+    <Project Path="13. QUIZ. LINQ10/13. QUIZ. LINQ10.csproj" Id="a5a43c05-dfbe-4be8-b968-48125f6bdcf7" />
+    <Project Path="13. QUIZ. LINQ11/13. QUIZ. LINQ11.csproj" Id="81224cf3-69f7-4820-afb9-6b9e3c95d0ec" />
+    <Project Path="13. QUIZ. LINQ12/13. QUIZ. LINQ12.csproj" Id="be4d3c1f-d23c-4e4c-821f-7b69d50274d9" />
+    <Project Path="13. QUIZ. LINQ3/13. QUIZ. LINQ3.csproj" Id="e14c714f-53de-4b7f-b02f-50f945aac597" />
+    <Project Path="13. QUIZ. LINQ4/13. QUIZ. LINQ4.csproj" Id="e6683d09-2b18-49a6-97bb-b7df8015045e" />
+    <Project Path="13. QUIZ. LINQ6/13. QUIZ. LINQ6.csproj" Id="3a76ee60-1ef5-4668-96be-2869373d74d4" />
+    <Project Path="13. QUIZ. LINQ7/13. QUIZ. LINQ7.csproj" Id="1bc7b213-840a-48a0-b729-68fa136bdab0" />
+  </Folder>
+  <Project Path="Isaiah Clifford Opoku\Isaiah Clifford Opoku.csproj" Id="8ee6aae9-d0ff-439f-8197-34aae411b15f" />
+  <Project Path="Practice\Practice.csproj" />
+</Solution>
