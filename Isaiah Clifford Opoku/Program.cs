@@ -1,7 +1,7 @@
 ﻿using System;
 
 // define an abstract class
-namespace AbstractClasses
+namespace Isaiah_Clifford_Opoku
 {
     // Abstract class
     public abstract class BankAccount

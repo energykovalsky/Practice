@@ -27,11 +27,11 @@
 
     public class ClassWithEvent
     {
-        public event Action<int, string>? Announcement;  
-    … 
-    private void OnAnnouncement(int value, string message)
-        => Announcement?.Invoke(value, message);
+        public event Action<int, string>? Announcement;
     }
+    //private void OnAnnouncement(int value, string message)
+    //    => Announcement?.Invoke(value, message);
+    //}
 
     public class Notifier
     {
@@ -45,3 +45,4 @@
             => Console.WriteLine($"Report: {message} with value {value}.");
     }
 }
+
